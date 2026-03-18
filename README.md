@@ -1,4 +1,4 @@
-# Paradise Nursery
+# Final Project
 
 This project is part of the IBM Watson NLP Emotion Detection assignment.
 
